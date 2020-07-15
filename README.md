@@ -8,7 +8,7 @@ My name is Salvatore Ventrone, I am a full stack developer at **[Develer](devele
 </p>
 
 <p  align="center">
-  <img align="left" src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/buccaneerdev.png" />
+  <img src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/buccaneerdev.png" />
   <img  src="https://github-readme-stats.vercel.app/api/?username=Ventrosky&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
 
