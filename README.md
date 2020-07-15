@@ -3,8 +3,8 @@ My name is Salvatore Ventrone, I am a full stack developer at **[Develer](devele
 
 <p align='center'>
 <a href="mailto:ventrosky@gmail.com"><img height="30" src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/iansmathew/"><img height="30" src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/iansmathew"><img height="30" src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/salvatore-ventrone/"><img height="30" src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/buccaneerdev"><img height="30" src="https://raw.githubusercontent.com/ventrosky/ventrosky/master/assets/icon_twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 <p  align="center">
