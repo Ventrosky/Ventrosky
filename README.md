@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+My name is Salvatore Ventrone, I am a full stack developer at **[Develer](develer.com)** using [Go](https://golang.org/) and [React](https://reactjs.org/).. I love teaching programming subjects and inspire young people learning to code. My interests are FLOSS, programming languages, technology and privacy. Besides programming, I'm a videogames and boardgames enthusiast.
 <!--
 **Ventrosky/Ventrosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Ventrosky&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+</p>
