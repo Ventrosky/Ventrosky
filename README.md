@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Salvatore Ventrone, I am a full stack developer at **[Develer](develer.com)** using [Go](https://golang.org/) and [React](https://reactjs.org/).. I love teaching programming subjects and inspire young people learning to code. My interests are FLOSS, programming languages, technology and privacy. Besides programming, I'm a videogames and boardgames enthusiast.
+My name is Salvatore Ventrone, I am a full stack developer at **[Develer](develer.com)** using [Go](https://golang.org/) and [React](https://reactjs.org/). I love teaching programming subjects and inspire young people learning to code. My interests are FLOSS, programming languages, technology and privacy. Besides programming, I'm a videogames and boardgames enthusiast.
 <!--
 **Ventrosky/Ventrosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
